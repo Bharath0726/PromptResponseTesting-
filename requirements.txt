@@ -1,5 +1,5 @@
 tiktoken
-openai
+openai==0.28
 streamlit
 tenacity
 evaluate
